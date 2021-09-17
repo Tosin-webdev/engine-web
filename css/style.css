@@ -170,11 +170,6 @@ a:focus {
   width: 15%;
 }
 
-/* .align {
-  display: grid;
-  grid-template-columns: minmax(2, 1fr);
-} */
-
 .nav-bar .container-fluid {
   padding: 0;
 }
